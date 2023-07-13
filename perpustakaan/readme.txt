@@ -12,8 +12,4 @@ username : darma_yuda
 password : 123456
 level	 : petugas
 
-Catatan Tambahan : Untuk Project UAS ini saya kerjakan sendiri pak karena rekan satu kelompok cuma numpang nama saja
-dan dia tidak membantu mengerjakan project ini cuma memberikan saran itupun cuma bilang projectnya sudah oke. jadi 
-saya harap semoga kedepannya tidak harus diwajibkan berkelompok dalam mengerjakan project UAS ini. sekian hal yang 
-ingin saya sampaikan terima kasih atas waktunya pak.
 
